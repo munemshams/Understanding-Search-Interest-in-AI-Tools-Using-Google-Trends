@@ -171,17 +171,5 @@ These insights provide a snapshot of how global interest in major AI tools has e
 
 ---
 
-# Technologies Used
-
-Python  
-Pandas  
-NumPy  
-Matplotlib  
-
----
-
-# Author
-
-**Munem Shariar Shams**
 
 Data Analytics | Python | SQL | Data Visualization
